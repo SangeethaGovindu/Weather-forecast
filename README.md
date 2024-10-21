@@ -1,2 +1,2 @@
 # Weather-forecast
-This website is used to find City weather 
+This website is used to find City weather.
